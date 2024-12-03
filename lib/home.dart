@@ -89,7 +89,7 @@ class HomePage extends StatelessWidget {
             child: CarouselSlider(
               options: CarouselOptions(
                 height: 150,
-                // autoPlay: true,
+                autoPlay: true,
                 enlargeCenterPage: true,
                 aspectRatio: 16 / 9,
                 viewportFraction: 1,
